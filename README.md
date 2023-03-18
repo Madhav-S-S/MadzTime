@@ -1,5 +1,12 @@
 # madz_time
 
+Use the MadzTime.apk file in the repository to download the app.
+
+Introducing our new app, "World Time", the ultimate tool for keeping track of time around the globe. With "World Time", you can easily view the current time and date for any location in the world.
+
+With "World Time", you can travel the world with ease and always stay on top of your schedule no matter where you are. Whether you are a business traveler or a global citizen, "World Time" is the perfect app to keep you connected to the world.
+
+Download "World Time" today and experience the convenience of having all the local times in the world at your fingertips!
 A new Flutter project.
 
 ## Getting Started
